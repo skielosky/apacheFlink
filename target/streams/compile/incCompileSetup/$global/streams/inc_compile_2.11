@@ -1,0 +1,395 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+17 items
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/Job$.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/Job.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anon$2$$anon$1.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anon$2$$anonfun$createSerializer$1.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anon$2.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anonfun$1$$anonfun$apply$1.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anonfun$1.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anonfun$2.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anon$2$$anon$1.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anon$2$$anonfun$createSerializer$1.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anon$2.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anonfun$1.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anonfun$2.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$.class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount.class
+binary dependencies:
+14 items
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> /home/ubuntu/.ivy2/cache/org.apache.flink/flink-core/jars/flink-core-1.4.0.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> /home/ubuntu/.ivy2/cache/org.apache.flink/flink-scala_2.11/jars/flink-scala_2.11-1.4.0.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> /home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/.ivy2/cache/org.apache.flink/flink-core/jars/flink-core-1.4.0.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/.ivy2/cache/org.apache.flink/flink-scala_2.11/jars/flink-scala_2.11-1.4.0.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/jars/flink-streaming-java_2.11-1.4.0.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/.ivy2/cache/org.apache.flink/flink-streaming-scala_2.11/jars/flink-streaming-scala_2.11-1.4.0.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/.ivy2/cache/org.apache.flink/flink-core/jars/flink-core-1.4.0.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/.ivy2/cache/org.apache.flink/flink-scala_2.11/jars/flink-scala_2.11-1.4.0.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+17 items
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> com.ezequielaguilar.Job
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> com.ezequielaguilar.Job$
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> com.ezequielaguilar.SocketTextStreamWordCount
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> com.ezequielaguilar.SocketTextStreamWordCount$
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> com.ezequielaguilar.SocketTextStreamWordCount$$anon$2
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> com.ezequielaguilar.SocketTextStreamWordCount$$anon$2$$anon$1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> com.ezequielaguilar.SocketTextStreamWordCount$$anon$2$$anonfun$createSerializer$1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> com.ezequielaguilar.SocketTextStreamWordCount$$anonfun$1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> com.ezequielaguilar.SocketTextStreamWordCount$$anonfun$1$$anonfun$apply$1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> com.ezequielaguilar.SocketTextStreamWordCount$$anonfun$2
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> com.ezequielaguilar.WordCount
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> com.ezequielaguilar.WordCount$
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> com.ezequielaguilar.WordCount$$anon$2
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> com.ezequielaguilar.WordCount$$anon$2$$anon$1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> com.ezequielaguilar.WordCount$$anon$2$$anonfun$createSerializer$1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> com.ezequielaguilar.WordCount$$anonfun$1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> com.ezequielaguilar.WordCount$$anonfun$2
+used names:
+242 items
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> <init>
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> AnyRef
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> Array
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> ExecutionEnvironment
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> Job
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> JobExecutionResult
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> Object
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> Predef
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> String
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> Unit
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> apache
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> api
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> com
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> env
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> execute
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> ezequielaguilar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> flink
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> getExecutionEnvironment
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> org
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> scala
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> !=
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> $anon
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> <init>
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> <refinement>
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> <repeated...>
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> <repeated>
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> ?0
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> A
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Any
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> AnyRef
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Array
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> ArrayOps
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> B
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> BasicTypeInfo
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Boolean
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> CaseClassSerializer
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> CaseClassTypeInfo
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Char
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> ClassTag
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Constructor
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> DataStream
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> DataStreamSink
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> ExecutionConfig
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Function1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Int
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> JobExecutionResult
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> KeyedStream
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> List
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Long
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Nothing
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Object
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Predef
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> PrintStream
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> R
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Range
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> RichInt
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Seq
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> SocketTextStreamWordCount
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> StreamExecutionEnvironment
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> String
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> StringOps
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> System
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> T
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> T0
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> T1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> T2
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> TraversableOnce
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Tuple
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Tuple2
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> TypeInformation
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> TypeSerializer
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> U
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> Unit
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> X
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> _$1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> _$2
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> _$6
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> _$7
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> _$8
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> _1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> apache
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> api
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> apply
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> args
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> asInstanceOf
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> augmentString
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> collection
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> com
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> counts
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> createSerializer
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> createTypeInformation
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> env
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> err
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> execute
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> executionConfig
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> ezequielaguilar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> fieldSerializers
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> fields
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> filter
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> flatMap
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> flink
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> foreach
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> getArity
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> getClass
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> getConstructors
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> getExecutionEnvironment
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> getInfoFor
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> getTypeClass
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> hostName
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> i
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> immutable
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> implicitly
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> intWrapper
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> java
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> keyBy
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> lang
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> length
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> main
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> map
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> materializeClassTag
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> newInstance
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> nonEmpty
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> org
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> package
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> port
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> print
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> println
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> protected$types
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> refArrayOps
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> scala
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> socketTextStream
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> split
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> streaming
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> sum
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> text
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> toArray
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> toInt
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> toLowerCase
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> tupleClass
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> types
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> until
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> update
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> $anon
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> <init>
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> <refinement>
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> <repeated...>
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> <repeated>
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> ?0
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> A
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> AggregateDataSet
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Any
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> AnyRef
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Array
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> ArrayOps
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> B
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> BasicTypeInfo
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> CaseClassSerializer
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> CaseClassTypeInfo
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Class
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> ClassTag
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Constructor
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> DataSet
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> ExecutionConfig
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> ExecutionEnvironment
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Function1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> GroupedDataSet
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Int
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> List
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Nothing
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Object
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Predef
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> R
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Range
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> RichInt
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Seq
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> String
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> T
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> T0
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> T1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> T2
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> TraversableOnce
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Tuple2
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> TypeInformation
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> TypeSerializer
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> U
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> Unit
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> WordCount
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> X
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> _$1
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> _$2
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> _$6
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> _$7
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> _$8
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> _7
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> apache
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> api
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> apply
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> asInstanceOf
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> collection
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> com
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> counts
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> createSerializer
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> createTypeInformation
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> env
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> executionConfig
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> ezequielaguilar
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> fieldSerializers
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> fields
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> flatMap
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> flink
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> foreach
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> fromElements
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> getArity
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> getClass
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> getConstructors
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> getExecutionEnvironment
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> getInfoFor
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> getTypeClass
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> groupBy
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> i
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> immutable
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> implicitly
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> intWrapper
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> map
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> materializeClassTag
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> newInstance
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> org
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> package
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> print
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> protected$types
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> refArrayOps
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> scala
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> split
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> sum
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> text
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> toArray
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> toLowerCase
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> tupleClass
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> types
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> until
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> update
+product stamps:
+17 items
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/Job$.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/Job.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anon$2$$anon$1.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anon$2$$anonfun$createSerializer$1.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anon$2.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anonfun$1$$anonfun$apply$1.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anonfun$1.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$$anonfun$2.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount$.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/SocketTextStreamWordCount.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anon$2$$anon$1.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anon$2$$anonfun$createSerializer$1.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anon$2.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anonfun$1.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$$anonfun$2.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount$.class -> lastModified(1517253367000)
+/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes/com/ezequielaguilar/WordCount.class -> lastModified(1517253367000)
+source stamps:
+3 items
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> hash(1ac6bb2e7142101a6eb0fe80994da8f1573d821d)
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> hash(c6b7d608423050a09b9dc7be97e8cbc411537599)
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> hash(437c5ee3c84d8eaf5bafaa0e5f13cdfe22e54547)
+binary stamps:
+6 items
+/home/ubuntu/.ivy2/cache/org.apache.flink/flink-core/jars/flink-core-1.4.0.jar -> lastModified(1512562967000)
+/home/ubuntu/.ivy2/cache/org.apache.flink/flink-scala_2.11/jars/flink-scala_2.11-1.4.0.jar -> lastModified(1512563367000)
+/home/ubuntu/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/jars/flink-streaming-java_2.11-1.4.0.jar -> lastModified(1512563315000)
+/home/ubuntu/.ivy2/cache/org.apache.flink/flink-streaming-scala_2.11/jars/flink-streaming-scala_2.11-1.4.0.jar -> lastModified(1512563767000)
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1501070085000)
+class names:
+6 items
+/home/ubuntu/.ivy2/cache/org.apache.flink/flink-core/jars/flink-core-1.4.0.jar -> org.apache.flink.api.common.typeutils.CompositeType
+/home/ubuntu/.ivy2/cache/org.apache.flink/flink-scala_2.11/jars/flink-scala_2.11-1.4.0.jar -> org.apache.flink.api.scala.typeutils.CaseClassSerializer
+/home/ubuntu/.ivy2/cache/org.apache.flink/flink-streaming-java_2.11/jars/flink-streaming-java_2.11-1.4.0.jar -> org.apache.flink.streaming.api.datastream.DataStreamSink
+/home/ubuntu/.ivy2/cache/org.apache.flink/flink-streaming-scala_2.11/jars/flink-streaming-scala_2.11-1.4.0.jar -> org.apache.flink.streaming.api.scala.KeyedStream
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.immutable.List
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5RxvEwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwnYTn1nQABm5vdGlmeXNxAH4ADEpCYJl0AAR3YWl0c3EAfgAMOOTsh3QADSRhc0luc3RhbmNlT2ZzcQB+AAw/A9hydAAGZXF1YWxzc3EAfgAMV0b28XQADGFzSW5zdGFuY2VPZnNxAH4ADKLY0sR0AAxzeW5jaHJvbml6ZWRzcQB+AAzoYXbadAANJGlzSW5zdGFuY2VPZnNxAH4ADIWphLl0AARtYWluc3EAfgAM/jAOjHQAA0pvYnNxAH4ADBBNUoh0AAlub3RpZnlBbGxzcQB+AAy4bDOqdAAMaXNJbnN0YW5jZU9mc3EAfgAMDEHB+nQAAj09c3EAfgAMMfHMb3QABWNsb25lc3EAfgAMX+N6OXQACHRvU3RyaW5nc3EAfgAM6BtYLHQAAiE9c3EAfgAMMpxlYnQACGdldENsYXNzc3EAfgAMfVG/L3QAAm5lc3EAfgAMt2oy6XQAAmVxc3EAfgAMLaJkrHQAAiMjc3EAfgAM53UxwXQACGZpbmFsaXplc3EAfgAMTRjVmXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAF2NvbS5lemVxdWllbGFndWlsYXIuSm9idXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAE2NvbS5lemVxdWllbGFndWlsYXJzcQB+AKZ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFDUmrMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARi9ob21lL3VidW50dS93b3Jrc3BhY2Uvc2NhbGEvZmxpbmsvZ2lzc3RyZWFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQaxrsucUIQGm6w/oCZTajxVz2CHQ==
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw18gs8AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjKFvtnQABm5vdGlmeXNxAH4ADDinTz90AAR3YWl0c3EAfgAM1PFUE3QADSRhc0luc3RhbmNlT2ZzcQB+AAwELSb2dAAZU29ja2V0VGV4dFN0cmVhbVdvcmRDb3VudHNxAH4ADK4iS8Z0AAZlcXVhbHNzcQB+AAyN5oOIdAAMYXNJbnN0YW5jZU9mc3EAfgAMdf1uiXQADHN5bmNocm9uaXplZHNxAH4ADFW31VB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMJGaUf3QABG1haW5zcQB+AAwuKBKTdAAJbm90aWZ5QWxsc3EAfgAMr6fgnHQADGlzSW5zdGFuY2VPZnNxAH4ADGvRuf90AAI9PXNxAH4ADC+JY650AAVjbG9uZXNxAH4ADESVCEF0AAh0b1N0cmluZ3NxAH4ADOqKOB50AAIhPXNxAH4ADDgi1JN0AAhnZXRDbGFzc3NxAH4ADMI2exJ0AAJuZXNxAH4ADKxJqNF0AAJlcXNxAH4ADGVE6Jd0AAIjI3NxAH4ADKTXZFR0AAhmaW5hbGl6ZXNxAH4ADJXnAXx0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AC1jb20uZXplcXVpZWxhZ3VpbGFyLlNvY2tldFRleHRTdHJlYW1Xb3JkQ291bnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAfdXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAATY29tLmV6ZXF1aWVsYWd1aWxhcnNxAH4ApnQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYUNSasx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABGL2hvbWUvdWJ1bnR1L3dvcmtzcGFjZS9zY2FsYS9mbGluay9naXNzdHJlYW0vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMa31ghCMFCgm53Hvpfoy8QRU3WZ
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwj2UiigAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwypQp+XQABm5vdGlmeXNxAH4ADPkZRLh0AAR3YWl0c3EAfgAMVLTrPHQADSRhc0luc3RhbmNlT2ZzcQB+AAxNPGX6dAAGZXF1YWxzc3EAfgAMvWEKcnQADGFzSW5zdGFuY2VPZnNxAH4ADDljzy50AAxzeW5jaHJvbml6ZWRzcQB+AAw2mlZKdAANJGlzSW5zdGFuY2VPZnNxAH4ADGQYUWh0AARtYWluc3EAfgAM4Mq0rnQACVdvcmRDb3VudHNxAH4ADHPC1Ip0AAlub3RpZnlBbGxzcQB+AAzTyAY3dAAMaXNJbnN0YW5jZU9mc3EAfgAMHH2hrnQAAj09c3EAfgAMic7X33QABWNsb25lc3EAfgAMD9NHsXQACHRvU3RyaW5nc3EAfgAMBo6ByXQAAiE9c3EAfgAMlgn3/HQACGdldENsYXNzc3EAfgAMLS/bjXQAAm5lc3EAfgAMtyvpG3QAAmVxc3EAfgAMdpJ/4HQAAiMjc3EAfgAMHPmdpHQACGZpbmFsaXplc3EAfgAMdNIW93QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHWNvbS5lemVxdWllbGFndWlsYXIuV29yZENvdW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAE2NvbS5lemVxdWllbGFndWlsYXJzcQB+AKZ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWFDUmrMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQARi9ob21lL3VidW50dS93b3Jrc3BhY2Uvc2NhbGEvZmxpbmsvZ2lzc3RyZWFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRDfF7jyE2Or1uvqg5fE83+IuVFRw==
+external apis:
+0 items
+source infos:
+3 items
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/Job.scala -> 
+AAAAAAAAAAA=
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/SocketTextStreamWordCount.scala -> 
+AAAAAAAAAAA=
+/home/ubuntu/workspace/scala/flink/gisstream/src/main/scala/com/ezequielaguilar/WordCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYUNSasx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL3VidW50dS93b3Jrc3BhY2Uvc2NhbGEvZmxpbmsvZ2lzc3RyZWFtL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
