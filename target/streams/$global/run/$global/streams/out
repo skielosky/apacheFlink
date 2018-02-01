@@ -1,7 +1,7 @@
-[0m[[0minfo[0m] [0mRunning com.ezequielaguilar.WordCount [0m
+[0m[[0minfo[0m] [0mRunning com.ezequielaguilar.SocketTextStreamWordCount [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
-[0m[[0mdebug[0m] [0m	/home/ubuntu/workspace/scala/flink/gisstream/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/ubuntu/workspace/scala/flink/apacheFlink/target/scala-2.11/classes[0m
 [0m[[0mdebug[0m] [0m	/home/ubuntu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
 [0m[[0mdebug[0m] [0m	/home/ubuntu/.ivy2/cache/org.apache.flink/flink-scala_2.11/jars/flink-scala_2.11-1.4.0.jar[0m
 [0m[[0mdebug[0m] [0m	/home/ubuntu/.ivy2/cache/org.apache.flink/flink-core/jars/flink-core-1.4.0.jar[0m
@@ -54,25 +54,5 @@
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
-[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-1-worker-7[0m
-[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-1-worker-7[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-7[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-7[0m
-[0m[[0mdebug[0m] [0mInterrupting thread I/O manager shutdown hook[0m
-[0m[[0mdebug[0m] [0m	Interrupted I/O manager shutdown hook[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-9[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-9[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-4[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-4[0m
-[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-1-worker-9[0m
-[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-1-worker-9[0m
-[0m[[0mdebug[0m] [0mInterrupting thread ForkJoinPool-1-worker-13[0m
-[0m[[0mdebug[0m] [0m	Interrupted ForkJoinPool-1-worker-13[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-3[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-3[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-8[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-8[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-11[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-11[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
 [0m[[0mdebug[0m] [0mExited with code 0[0m
